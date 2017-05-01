@@ -1,0 +1,63 @@
+/* add your CSS here */
+
+.p {
+	font-size: 30;
+}
+
+h1 {
+	font-style: italic;
+}
+
+img {
+	width: 300px;
+}
+
+body {
+	background: white;
+
+}
+
+li {
+	list-style: none;
+}
+
+ul {
+	margin-left: -40px;
+}
+
+span {
+	font-weight: bolder;
+}
+
+
+.main_div {
+	background: white;
+	border: 1px solid #dedede; 
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 300px;
+
+	
+	margin: 0 auto;
+	box-shadow:  7px 7px 0px 0px #dedede;
+
+	font-family: "Times New Roman", Georgia, serif;
+}
+
+.sub_div {
+	width: 280px;
+	border: 1px solid #dedede ;
+	padding-left: 9px;
+	padding-right: 9px;
+
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	font-size: 12px;
+}
+
+.summary {
+	font-style: italic;
+}
+
+
